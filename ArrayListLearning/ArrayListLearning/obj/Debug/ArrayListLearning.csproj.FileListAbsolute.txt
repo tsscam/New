@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayListLearning\ArrayListLearning\bin\Debug\ArrayListLearning.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayListLearning\ArrayListLearning\bin\Debug\ArrayListLearning.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayListLearning\ArrayListLearning\bin\Debug\ArrayListLearning.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayListLearning\ArrayListLearning\obj\Debug\ArrayListLearning.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayListLearning\ArrayListLearning\obj\Debug\ArrayListLearning.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayListLearning\ArrayListLearning\obj\Debug\ArrayListLearning.pdb

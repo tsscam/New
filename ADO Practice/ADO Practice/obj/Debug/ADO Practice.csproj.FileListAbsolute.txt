@@ -1,0 +1,59 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\obj\Debug\ADO Practice.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\ApplicationInsights.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\roslyn\csc.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\roslyn\vbc.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\roslyn\VBCSCompiler.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\ADO Practice.dll.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\ADO Practice.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\ADO Practice.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Antlr3.Runtime.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\EntityFramework.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\EntityFramework.SqlServer.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Microsoft.AI.Web.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Newtonsoft.Json.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\PlatformSpellCheck.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\System.Web.Helpers.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\System.Web.Mvc.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\System.Web.Optimization.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\System.Web.Razor.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\System.Web.WebPages.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\System.Web.WebPages.Razor.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\WebGrease.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\EntityFramework.xml
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\EntityFramework.SqlServer.xml
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Microsoft.AI.Web.xml
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\PlatformSpellCheck.xml
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\System.Web.Helpers.xml
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\System.Web.Mvc.xml
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\System.Web.Optimization.xml
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\System.Web.Razor.xml
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\System.Web.WebPages.xml
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\System.Web.WebPages.Razor.xml
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Antlr3.Runtime.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\bin\Newtonsoft.Json.xml
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\obj\Debug\ADO Practice.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ADO Practice\ADO Practice\obj\Debug\ADO Practice.pdb

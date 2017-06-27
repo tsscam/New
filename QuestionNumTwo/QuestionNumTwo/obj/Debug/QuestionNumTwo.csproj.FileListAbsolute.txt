@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\QuestionNumTwo\QuestionNumTwo\bin\Debug\QuestionNumTwo.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\QuestionNumTwo\QuestionNumTwo\bin\Debug\QuestionNumTwo.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\QuestionNumTwo\QuestionNumTwo\bin\Debug\QuestionNumTwo.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\QuestionNumTwo\QuestionNumTwo\obj\Debug\QuestionNumTwo.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\QuestionNumTwo\QuestionNumTwo\obj\Debug\QuestionNumTwo.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\QuestionNumTwo\QuestionNumTwo\obj\Debug\QuestionNumTwo.pdb

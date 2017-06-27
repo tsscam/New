@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabTwelve\LabTwelve\bin\Debug\LabTwelve.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabTwelve\LabTwelve\obj\Debug\LabTwelve.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabTwelve\LabTwelve\bin\Debug\LabTwelve.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabTwelve\LabTwelve\bin\Debug\LabTwelve.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabTwelve\LabTwelve\obj\Debug\LabTwelve.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabTwelve\LabTwelve\obj\Debug\LabTwelve.pdb

@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "ListShipCity";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ListShipCity</h2>
+
+<a href="/Northwind/Orders"> Orders </a>
+
+<form action="SearchOrdersbyCity">
+    Search by City <input type="submit" value="Customers By City" />
+
+    <select name="City">
+        @foreach (var element in ViewBag.Cities)
+        {
+        <option value="@element"> @element</option>}
+    </select>

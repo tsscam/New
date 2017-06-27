@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ExcerciseSixteen\ExcerciseSixteen\bin\Debug\ExcerciseSixteen.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ExcerciseSixteen\ExcerciseSixteen\bin\Debug\ExcerciseSixteen.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ExcerciseSixteen\ExcerciseSixteen\bin\Debug\ExcerciseSixteen.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ExcerciseSixteen\ExcerciseSixteen\obj\Debug\ExcerciseSixteen.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ExcerciseSixteen\ExcerciseSixteen\obj\Debug\ExcerciseSixteen.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ExcerciseSixteen\ExcerciseSixteen\obj\Debug\ExcerciseSixteen.pdb

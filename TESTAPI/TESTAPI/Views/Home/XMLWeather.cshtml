@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "XMLWeather";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>XMLWeather</h2>
+
+<table class= "table">
+
+    @for (int i = 0; i < ViewBag.TextData.Count; i++)
+{
+    <tr><td>@ViewBag.Day.Item(i).InnerText</td> <td> @ViewBag.TextData.Item(i).InnerText</td></tr>
+}
+
+    </table>
+
+

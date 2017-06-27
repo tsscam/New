@@ -1,0 +1,2 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\PracticeMidTerm\PracticeMidTerm\bin\Debug\PracticeMidTerm.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\PracticeMidTerm\PracticeMidTerm\obj\Debug\PracticeMidTerm.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Excersise16\Excersise16\bin\Debug\Excersise16.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Excersise16\Excersise16\bin\Debug\Excersise16.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Excersise16\Excersise16\bin\Debug\Excersise16.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Excersise16\Excersise16\obj\Debug\Excersise16.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Excersise16\Excersise16\obj\Debug\Excersise16.pdb

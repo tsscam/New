@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\WeekTwoAssessmentC\WeekTwoAssessmentC\bin\Debug\WeekTwoAssessmentC.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\WeekTwoAssessmentC\WeekTwoAssessmentC\obj\Debug\WeekTwoAssessmentC.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\WeekTwoAssessmentC\WeekTwoAssessmentC\bin\Debug\WeekTwoAssessmentC.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\WeekTwoAssessmentC\WeekTwoAssessmentC\bin\Debug\WeekTwoAssessmentC.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\WeekTwoAssessmentC\WeekTwoAssessmentC\obj\Debug\WeekTwoAssessmentC.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\WeekTwoAssessmentC\WeekTwoAssessmentC\obj\Debug\WeekTwoAssessmentC.pdb

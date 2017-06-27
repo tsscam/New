@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayRowColumn\ArrayRowColumn\bin\Debug\ArrayRowColumn.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayRowColumn\ArrayRowColumn\bin\Debug\ArrayRowColumn.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayRowColumn\ArrayRowColumn\bin\Debug\ArrayRowColumn.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayRowColumn\ArrayRowColumn\obj\Debug\ArrayRowColumn.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayRowColumn\ArrayRowColumn\obj\Debug\ArrayRowColumn.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\ArrayRowColumn\ArrayRowColumn\obj\Debug\ArrayRowColumn.pdb

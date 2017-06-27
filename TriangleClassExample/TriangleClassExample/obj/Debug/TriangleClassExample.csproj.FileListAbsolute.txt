@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TriangleClassExample\TriangleClassExample\bin\Debug\TriangleClassExample.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TriangleClassExample\TriangleClassExample\bin\Debug\TriangleClassExample.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TriangleClassExample\TriangleClassExample\bin\Debug\TriangleClassExample.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TriangleClassExample\TriangleClassExample\obj\Debug\TriangleClassExample.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TriangleClassExample\TriangleClassExample\obj\Debug\TriangleClassExample.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TriangleClassExample\TriangleClassExample\obj\Debug\TriangleClassExample.pdb

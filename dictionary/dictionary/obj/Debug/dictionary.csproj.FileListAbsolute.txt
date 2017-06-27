@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Debug\dictionary.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Debug\dictionary.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\dictionary\dictionary\bin\Debug\dictionary.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Debug\dictionary.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Debug\dictionary.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\dictionary\dictionary\obj\Debug\dictionary.pdb

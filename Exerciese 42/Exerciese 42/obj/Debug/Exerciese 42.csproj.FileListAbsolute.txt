@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Exerciese 42\Exerciese 42\bin\Debug\Exerciese 42.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Exerciese 42\Exerciese 42\bin\Debug\Exerciese 42.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Exerciese 42\Exerciese 42\bin\Debug\Exerciese 42.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Exerciese 42\Exerciese 42\obj\Debug\Exerciese 42.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Exerciese 42\Exerciese 42\obj\Debug\Exerciese 42.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\Exerciese 42\Exerciese 42\obj\Debug\Exerciese 42.pdb

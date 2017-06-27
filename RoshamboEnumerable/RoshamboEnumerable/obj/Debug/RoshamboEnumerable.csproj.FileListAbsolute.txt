@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\RoshamboEnumerable\RoshamboEnumerable\bin\Debug\RoshamboEnumerable.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\RoshamboEnumerable\RoshamboEnumerable\bin\Debug\RoshamboEnumerable.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\RoshamboEnumerable\RoshamboEnumerable\bin\Debug\RoshamboEnumerable.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\RoshamboEnumerable\RoshamboEnumerable\obj\Debug\RoshamboEnumerable.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\RoshamboEnumerable\RoshamboEnumerable\obj\Debug\RoshamboEnumerable.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\RoshamboEnumerable\RoshamboEnumerable\obj\Debug\RoshamboEnumerable.pdb

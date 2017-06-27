@@ -1,0 +1,2 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\DateFinder\DateFinder\bin\Debug\DateFinder.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\DateFinder\DateFinder\obj\Debug\DateFinder.csprojResolveAssemblyReference.cache

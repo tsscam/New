@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewBag.Title = "ListAllCustomers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<br />
+
+<a href="/Northwind/AddCustomer"> Add a new Customer </a>
+
+<br />
+
+
+<form action="SearchCustomers">
+    Search by CustomerID <input type="text" name="CustomerID"/>
+    <input type="submit"value="search"/>
+
+</form>
+
+<br />
+<br />
+
+<form action="SearchCustomersbyCity">
+    Search by City <input type="submit" value="Customers By City" />
+    
+    <select name="City">
+        @foreach (var element in ViewBag.Cities)
+        {     <option value ="@element"> @element</option>}
+    </select>
+
+</form>
+
+    <br />
+    <br />
+
+    <h2>Customer List</h2>
+    <table border="1">
+        <tr> <th> Customer ID <th> Company Name</th> <th> Customer City </th></tr>
+        @foreach (var element in ViewBag.CustomerList)
+        {
+            <tr>
+                <td>@element.CustomerID </td>
+                <td>@element.CompanyName</td>
+                <td>@element.City</td>
+                <td><a href= "DeleteCustomer?CustomerID=@element.CustomerID" onclick= "return confirm ('Are you confirming a DELETE?')"> <span class="glyphicon glyphicon-trash"></span> </a></td>
+                <td><a href="UpdateCustomer?CustomerID=@element.CustomerID">Update</a></td>
+
+            </tr>
+
+        }
+
+    </table>
+

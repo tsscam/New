@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TIMS CAR STRING\TIMS CAR STRING\bin\Debug\TIMS CAR STRING.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TIMS CAR STRING\TIMS CAR STRING\bin\Debug\TIMS CAR STRING.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TIMS CAR STRING\TIMS CAR STRING\bin\Debug\TIMS CAR STRING.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TIMS CAR STRING\TIMS CAR STRING\obj\Debug\TIMS CAR STRING.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TIMS CAR STRING\TIMS CAR STRING\obj\Debug\TIMS CAR STRING.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\TIMS CAR STRING\TIMS CAR STRING\obj\Debug\TIMS CAR STRING.pdb

@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\DateTIme\DateTIme\bin\Debug\DateTIme.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\DateTIme\DateTIme\bin\Debug\DateTIme.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\DateTIme\DateTIme\bin\Debug\DateTIme.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\DateTIme\DateTIme\obj\Debug\DateTIme.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\DateTIme\DateTIme\obj\Debug\DateTIme.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\DateTIme\DateTIme\obj\Debug\DateTIme.pdb

@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\FizzPuzzProject\FizzPuzzProject\bin\Debug\FizzPuzzProject.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\FizzPuzzProject\FizzPuzzProject\bin\Debug\FizzPuzzProject.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\FizzPuzzProject\FizzPuzzProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\FizzPuzzProject\FizzPuzzProject\obj\Debug\FizzPuzzProject.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\FizzPuzzProject\FizzPuzzProject\obj\Debug\FizzPuzzProject.dll
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\FizzPuzzProject\FizzPuzzProject\obj\Debug\FizzPuzzProject.pdb

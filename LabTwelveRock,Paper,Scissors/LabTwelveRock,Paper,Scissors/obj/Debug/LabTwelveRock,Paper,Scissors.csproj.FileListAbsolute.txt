@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabTwelveRock,Paper,Scissors\LabTwelveRock,Paper,Scissors\bin\Debug\LabTwelveRock,Paper,Scissors.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabTwelveRock,Paper,Scissors\LabTwelveRock,Paper,Scissors\bin\Debug\LabTwelveRock,Paper,Scissors.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabTwelveRock,Paper,Scissors\LabTwelveRock,Paper,Scissors\bin\Debug\LabTwelveRock,Paper,Scissors.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabTwelveRock,Paper,Scissors\LabTwelveRock,Paper,Scissors\obj\Debug\LabTwelveRock,Paper,Scissors.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabTwelveRock,Paper,Scissors\LabTwelveRock,Paper,Scissors\obj\Debug\LabTwelveRock,Paper,Scissors.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabTwelveRock,Paper,Scissors\LabTwelveRock,Paper,Scissors\obj\Debug\LabTwelveRock,Paper,Scissors.pdb
